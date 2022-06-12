@@ -693,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-06-11 21:31:13 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2022-06-09 19:14:51 -0300",
@@ -932,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-06-11 21:40:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2022-06-11 15:02:02 -0300"
@@ -952,6 +964,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2022-06-11 21:28:32 -0300",
       "skeleton": "2022-06-09 19:08:38 -0300",
       "zombie": "2022-06-09 19:00:36 -0300",
       "creeper": "2022-06-09 19:45:28 -0300"
