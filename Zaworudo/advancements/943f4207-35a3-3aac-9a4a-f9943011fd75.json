@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2022-06-12 16:22:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-06-09 19:10:29 -0300"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2022-06-12 16:22:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2022-06-09 17:45:31 -0300"
@@ -128,6 +140,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2022-06-09 19:10:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2022-06-12 16:20:54 -0300"
     },
     "done": true
   },
@@ -306,6 +324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2022-06-12 16:20:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-06-09 20:00:57 -0300"
@@ -363,6 +387,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2022-06-09 19:03:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2022-06-12 16:22:18 -0300"
     },
     "done": true
   },
@@ -425,6 +455,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2022-06-09 19:13:12 -0300",
+      "forest_hills": "2022-06-12 16:33:06 -0300",
       "plains": "2022-06-09 19:08:07 -0300",
       "taiga": "2022-06-09 17:40:16 -0300",
       "river": "2022-06-09 19:08:02 -0300"
@@ -539,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-06-12 16:22:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2022-06-09 19:08:01 -0300"
@@ -591,7 +628,8 @@
     "criteria": {
       "zombie_villager": "2022-06-09 19:22:19 -0300",
       "skeleton": "2022-06-09 19:57:49 -0300",
-      "zombie": "2022-06-09 19:21:52 -0300"
+      "zombie": "2022-06-09 19:21:52 -0300",
+      "creeper": "2022-06-12 16:19:55 -0300"
     },
     "done": false
   },
