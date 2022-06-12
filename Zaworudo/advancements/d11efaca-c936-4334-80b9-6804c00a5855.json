@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2022-06-12 14:03:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-06-09 19:27:09 -0300"
@@ -346,6 +352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2022-06-12 14:03:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-06-11 15:45:22 -0300"
@@ -621,6 +633,7 @@
       "zombie_villager": "2022-06-11 21:28:32 -0300",
       "skeleton": "2022-06-09 19:08:38 -0300",
       "zombie": "2022-06-09 19:00:36 -0300",
+      "spider": "2022-06-12 14:00:10 -0300",
       "creeper": "2022-06-09 19:45:28 -0300"
     },
     "done": false
@@ -931,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2022-06-12 14:03:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2022-06-11 14:15:24 -0300"
@@ -1021,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2022-06-12 14:03:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-06-09 19:50:52 -0300"
@@ -1090,6 +1115,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2022-06-09 17:36:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-06-12 14:04:05 -0300"
     },
     "done": true
   },
